@@ -1,7 +1,7 @@
 # 👨‍💻 Juan Patricio
 
-Sou Juan Patricio, estudante de Análise e Desenvolvimento de Sistemas no IFSP, com forte interesse em tecnologia, lógica computacional e desenvolvimento de software. Tenho como objetivo me consolidar como um Desenvolvedor Back-End altamente qualificado, capaz de entregar soluções robustas, eficientes e escaláveis.
-Minha abordagem é fundamentada na disciplina, no raciocínio analítico e na busca constante por excelência técnica. Acredito que um bom desenvolvedor não apenas escreve código, mas resolve problemas de forma inteligente e estratégica, com foco em qualidade, clareza e performance. Minhas redes sociais para entrar em contato: 
+Sou Juan Patricio, estudante de Análise e Desenvolvimento de Sistemas no IFSP, com forte interesse em tecnologia, lógica computacional e desenvolvimento de software. Sou desenvolvedor Back-End, capaz de entregar soluções robustas, eficientes e escaláveis.
+Minha abordagem é fundamentada na disciplina, no raciocínio analítico e na busca constante por excelência. Acredito que um bom desenvolvedor não apenas escreve código, mas resolve problemas de forma inteligente e estratégica, com foco em qualidade, clareza e performance. Minhas redes sociais para entrar em contato: 
 
 <p align="center">
   <a href="mailto:juanpatriciodasilvaborges1@gmail.com">
